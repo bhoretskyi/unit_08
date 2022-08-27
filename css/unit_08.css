@@ -110,10 +110,16 @@ p {
 
 /* ================ task 1 ========================= */
 .out-1 {
+    display: flex;
+    
+    justify-content: center ;
 }
 
 /* ================ task 2 ========================= */
 .out-2 {
+    display: flex;
+        justify-content: space-between;
+       align-items: center;
 }
 
 /* ================ task 3 ========================= */
